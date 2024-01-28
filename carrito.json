@@ -1,0 +1,15 @@
+[
+    {
+      "id": "cart1",
+      "products": [
+        { "product": "Jabon", "quantity": 2 },
+        { "product": "Shampoo", "quantity": 1 }
+      ]
+    },
+    {
+      "id": "cart2",
+      "products": [
+        { "product": "Carne", "quantity": 3 }
+      ]
+    }
+  ]

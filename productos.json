@@ -1,0 +1,64 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "titulo": "Jabón",
+        "description": "Jabón de avena",
+        "code": "20",
+        "price": 100,
+        "status": true,
+        "stock": 32,
+        "category": "Aseo personal"
+      },
+      {
+        "id": 2,
+        "titulo": "Shampoo",
+        "description": "Shampoo de aloe vera",
+        "code": "21",
+        "price": 150,
+        "status": true,
+        "stock": 25,
+        "category": "Aseo personal"
+      },
+      {
+        "id": 3,
+        "titulo": "Carne",
+        "description": "Carne de vaca",
+        "code": "31",
+        "price": 200,
+        "status": true,
+        "stock": 40,
+        "category": "alimentos"
+      },
+      {
+        "id": 4,
+        "titulo": "pollo",
+        "description": "pollo asado",
+        "code": "23",
+        "price": 190,
+        "status": true,
+        "stock": 40,
+        "category": "alimentos"
+      },
+      {
+        "id": 5,
+        "titulo": "Lavaloza",
+        "description": "jabón para lavar loza",
+        "code": "34",
+        "price": 100,
+        "status": true,
+        "stock": 50,
+        "category": "limpieza"
+      },
+      {
+        "id": 6,
+        "titulo": "limpiapisos",
+        "description": "jabón para limpiar pisos",
+        "code": "45",
+        "price": 110,
+        "status": true,
+        "stock": 50,
+        "category": "limpieza"
+      }
+    ]
+  }
